@@ -1,0 +1,9 @@
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <!-- AOS -->
+    <script src="js/aos.js"></script>
+    <script>
+      AOS.init({
+      });
+    </script>
+  <script type="text/javascript" src="script.js"></script>
